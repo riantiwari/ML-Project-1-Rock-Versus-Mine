@@ -1,1 +1,1 @@
-# Rock Versus Mine Project
+# ML Project 1: Rock Versus Mine
